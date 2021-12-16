@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">RecyclerView1</string>
+    <string-array name="programmingLanguages">
+    <items>c++</items>
+    <items>Java</items>
+    <items>Python</items>
+    </string-array>
+    <string-array name="description">
+        <items>This is the random description</items>
+        <items>This is the random description</items>
+        <items>This is the random description</items>
+    </string-array>
+
 </resources>
